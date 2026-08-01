@@ -5,7 +5,7 @@ Omega Point Solutions suite — RAG-grounded answers, report help, and investiga
 built sovereign and U.S.-based.
 
 - **Live:** https://dano-desk.fraudtrax.net
-- **Sign in / account:** https://account.omegapointsolutions.com (one Omega Point ID across the whole suite)
+- **Sign in / account:** https://id.fraudtrax.net (one Omega Point ID across the whole suite)
 - **Maker:** [Omega Point Solutions LLC](https://omegapointsolutions.com)
 
 ## What it does
@@ -15,7 +15,7 @@ built sovereign and U.S.-based.
 
 ## Access
 DAN-O Desk is a CJIS/LE product. Request access with your agency verification at
-[account.omegapointsolutions.com](https://account.omegapointsolutions.com); approval is required before sign-in.
+[id.fraudtrax.net](https://id.fraudtrax.net); approval is required before sign-in.
 
 ---
 
