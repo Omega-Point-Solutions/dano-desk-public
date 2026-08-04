@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/ops-logo-600.png" alt="Omega Point Solutions" width="280"></p>
+
 # DAN-O Desk
 
 **An AI partner for law enforcement.** DAN-O Desk is the officer-facing assistant in the
