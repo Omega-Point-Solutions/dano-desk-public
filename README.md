@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/ops-logo-slate-600.png" alt="Omega Point Solutions" width="280"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/logo-dano.png" alt="DAN-O" width="200"></p>
 
 # DAN-O Desk
 
